@@ -1,0 +1,2 @@
+process:
+	python process.py
