@@ -1,3 +1,7 @@
+"""
+Generate web page that can be opened on your phone and whose contents can be
+copied into Notes
+"""
 import re
 from pathlib import Path
 import socket
@@ -33,7 +37,7 @@ def get_numbers(lines):
   for line in lines:
     for part in line.split():
       yield part
-  
+
 def start_web_server():
   s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
   s.connect(('10.255.255.255', 1))
