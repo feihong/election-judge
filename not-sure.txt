@@ -1,1 +1,0 @@
-If the voter's signature is not on file in the e-poll book, ask the voter for {the last two digits of their social security number}

@@ -1,0 +1,17 @@
+If the polling place is too small to allow the 60-inch turning clearance, you may eliminate {a tall voting booth}
+
+Pathways should be 36 inches except in front of the {lowered voting booth} and {touchscreen}
+
+When connecting the modem to the ballot scanner, you must use the {top} USB port.
+
+The touchscreen printer must be turned on {before} the polls are opened on the touchscreen voting unit.
+
+If a voter chooses to vote an audio ballot, a judge should assist the voter by {selecting the language and device} on the touchscreen voting unit
+
+Even if the card activator fails, the touchscreen voting unit can still be used via {manual activation}
+
+The ballot scanner must be {completely powered down} before removing the memory cards
+
+If you accidentally give a voter the wrong ballot, you must {ask the election coordinator to do an override}
+
+If the voter's signature doesn't match, ask the voter for {their birth year}

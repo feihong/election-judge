@@ -1,5 +1,10 @@
+.DS_Store
 __pycache__
+
+# Input
 judges.txt
 settings.py
 
+# Output
+flashcards-to-import.txt
 index.html
