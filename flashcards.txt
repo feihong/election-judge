@@ -10,15 +10,15 @@ Cloze	election	At the end of the day, the Investigator Sign-in Sheet (Form 202) 
 Cloze	election	At {{c1::6:00 am}}, a Judge of Election announces that {{c2::the polls are open}}
 Cloze	election	The lowered voting booth should be placed in an area with a minimum of {{c1::5}} feet of clearance
 Cloze	election	Campaigning is not allowed within {{c1::100}} feet of the polling place
-Cloze	election	After the polls close, the ballots removed from the auxiliary ballot box inside the ESC should be {{c1::inserted them into the ballot scanner}}
+Cloze	election	After the polls close, the ballots removed from the auxiliary ballot box inside the ESC should be {{c1::inserted into the ballot scanner}}
 Cloze	election	When the morning zero tape prints out, {{c1::it must remain attached to the ballot scanner until after the polls close}}
 Cloze	election	After giving the top portion of Form 14Reg back to the voter, you put the bottom portion in {{c1::Envelope 48E (registration materials)}}
 Cloze	election	If the ballot scanner display screen reads "clear paper jam", you should {{c1::gently remove the ballot to clear the message}}. When the screen says "please insert ballot", {{c1::instruct the voter to reinsert their ballot}}.
 Cloze	election	Once a provisional ballot is completed, place it in {{c1::Envelope P}}
 Cloze	election	If the voter needs to make a major change to their name or address, they should fill out {{c1::Form 14Reg}}. For minor corrections, use {{c1::Form 15}}.
 Cloze	election	You can find the Ballot Packing List in {{c1::Envelope 1}}
-Cloze	election	If a voter has a status of “Inactive” in pink in the e-poll book, you should {{c1::confirm that the voter still lives at the address on record}}, and then {{c1::allow them to vote a standard ballot}}
-Cloze	election	Political districts are identified by what {{c1::numbers}}
+Cloze	election	If a voter has a status of “Inactive” in the e-poll book, you should {{c1::confirm that the voter still lives at the address on record}}, and then {{c1::allow them to vote a standard ballot}}
+Cloze	election	Political districts are identified by {{c1::numbers}}
 Cloze	election	Each time they visit the polling place, Field Investigators must {{c1::sign in and out on the Investigator Sign-In Sheet (Form 202)}}
 Cloze	election	Pollwatchers {{c1::don't need}} to sign in, but they {{c1::need}} to provide credentials
 Cloze	election	On the day before Election Day, it's OK to hang up signs and set up the voting booths between {{c1::5 pm and 7 pm}}
@@ -31,20 +31,29 @@ Cloze	election	Voted ballots with valid write-in candidates go in {{c1::Envelope
 Cloze	election	Unused ballots go in {{c1::the Election Supply Carrier}}
 Cloze	election	After the polls have closed, you place the Morning Zero Tape in the {{c1::Transfer Case}}
 Cloze	election	You {{c1::cannot}} demonstrate how to vote on the touchscreen voting unit
-Cloze	election	A voided Form 14 (Application for Ballot) goes {{c1::on the spindle}}, but {{c1::don't number it}}
+Cloze	election	A voided Form 14 (Application for Ballot) goes {{c1::on the spindle}}, but {{c1::do not number it}}
 Cloze	election	At the end of the day, the spindle goes in {{c1::Envelope 14E}}, which goes into {{c1::the Black Return Bag}}
 Cloze	election	Before putting the spindle into Envelope 14E, you should {{c1::note and record the application number on the topmost Form 14}}
 Cloze	election	You can find Form 15, Correction Report at {{c1::the bottom of the Form 14 (Application for Ballot) pad}}
 Cloze	election	At the end of the day, Correction Report forms go {{c1::on top of the Used Application for Ballot spindle}}
 Cloze	election	Before taking the epoll book equipment out of the case, {{c1::take some photos so you remember how to stuff them back into the case}}
-Cloze	election	If a voter changed their address within the last 30 days and they still {{c1::reside in Illinois}}, {{c1::give them Form 1 (Consolidated Voter's Affidavits), check Box #1, and ask them to present two pieces of acceptable identification::three things}}.
-Cloze	election	If a voter changed their address more than 30 days ago within the city of Chicago, they can vote without re-registering if you {{c1::give them Form 1 (Consolidated Voter's Affidavits), check Box #5, and issue them a Federal Offices Only voter card::three things}}.
-Cloze	election	When you call the polling place to schedule a time to inspect the voting equipment, whose you should ask for {{c1::the phone number of the person who will open the doors on the day of the election}}
-Cloze	election	The key to threading the seals through the base of the ballot box is {{c1::to not to thread it straight through and instead aim slightly upward}}. For the side and back seals, it helps to {{c1::kneel inside the ballot box}}.
+Cloze	election	If a voter changed their address within the last 30 days and they still reside in {{c1::Illinois}}, {{c1::give them Form 1 (Consolidated Voter's Affidavit), check Box #1, and ask them to present two pieces of acceptable identification::three things}}.
+Cloze	election	If a voter changed their address more than 30 days ago within the {{c1::city of Chicago}}, they can vote without re-registering if you {{c1::give them Form 1 (Consolidated Voter's Affidavit), check Box #5, and issue them a Federal Offices Only voter card::three things}}.
+Cloze	election	When you call the polling place to schedule a time to inspect the voting equipment, you should ask for {{c1::the phone number of the person who will open the doors on the day of the election}}
+Cloze	election	The key to threading the seals through the base of the ballot box is {{c1::to aim slightly upward instead of trying to thread it straight through}}. For the side and back seals, it helps to {{c1::kneel inside the ballot box}}.
 Cloze	election	At the end of the day, voter cards go into {{c1::the black return bag (where epoll books also go)}}
 Cloze	election	Before sealing the black return bag, transfer case, and ESC, you must {{c1::record the seal numbers on the Seal Accountability Form and place the Seal Accountability Form inside the black return bag}}
-Cloze	election	At 6:30 pm, you should start counting {{c1::the number of unused ballots}}. You will need this {{c1::number}} to help you fill out Form 80.
+Cloze	election	At 6:30 pm, you should start counting {{c1::the number of unused ballots}}. You will need this number to help you fill out Form 80.
 Cloze	election	You should edit Form 149EC by {{c1::adding missing items to the checklists, e.g. voter cards go in black return bag}}
 Cloze	election	If the entrance to the polling place changed from the previous election, you should {{c1::put up signs on the former entrance(s) directing voters to the current entrance}}
 Cloze	election	When you inspect the ESC on the day before the election, you should open the doors {{c1::slowly}} to {{c1::give you a better chance of catching equipment that would otherwise fall out and onto the floor}}
 Cloze	election	The orange seal is for sealing {{c1::the auxiliary ballot box inside the ESC}}
+Cloze	election	If the polling place is too small to allow the 60-inch turning clearance, you may eliminate {{c1::a tall voting booth}}
+Cloze	election	Pathways should be 36 inches except in front of the {{c1::lowered voting booth}} and {{c1::touchscreen voting unit}}
+Cloze	election	When connecting the modem to the ballot scanner, you must use the {{c1::top}} USB port.
+Cloze	election	The touchscreen printer must be turned on {{c1::before}} the polls are opened on the touchscreen voting unit.
+Cloze	election	If a voter chooses to vote an audio ballot, a judge should assist the voter by {{c1::selecting the language and device}} on the touchscreen voting unit
+Cloze	election	Even if the card activator fails, the touchscreen voting unit can still be used via {{c1::manual activation}}
+Cloze	election	The ballot scanner must be {{c1::completely powered down}} before removing the memory cards
+Cloze	election	If you accidentally give a voter the wrong ballot, you must {{c1::ask the election coordinator to do an override}}
+Cloze	election	If the voter's signature doesn't match, ask the voter for {{c1::their birth year}}

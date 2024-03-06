@@ -1,15 +1,10 @@
 from pathlib import Path
 import re
+import util
 
 input_file = Path('new-flashcards.txt')
 output_file = Path('flashcards-to-import.txt')
 
-header = """\
-#separator:tab
-#html:true
-#notetype column:1
-#tags column:2
-"""
 
 def get_lines():
   lines = input_file.read_text().splitlines()
@@ -27,7 +22,7 @@ def get_cards():
 
 
 with output_file.open('w') as fp:
-  fp.write(header)
+  fp.write(util.header)
 
   for line in get_cards():
     fp.write(line + '\n')

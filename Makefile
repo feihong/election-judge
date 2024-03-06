@@ -1,3 +1,6 @@
+install:
+	pip install --requirement requirements.txt
+
 page:
 	python generate_page.py
 
@@ -5,4 +8,4 @@ flashcards:
 	python generate_flashcards.py
 
 export:
-	echo "todo"
+	python export_flashcards.py

@@ -4,7 +4,7 @@
 
 Install Python, then install dependencies:
 
-    pip install --requirement requirements.txt
+    make install
 
 ## Directions
 
