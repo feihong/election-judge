@@ -1,6 +1,6 @@
 settings = dict(
   role='key judge',
-  subject_name='Barbara Walters',
-  location='Borowitz School',
+  subject_name='Frodo Baggins',
+  location='Tolkien Academy',
   date_time='Monday, April 6',
 )

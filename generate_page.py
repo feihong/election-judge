@@ -45,17 +45,19 @@ def start_web_server():
 
   server_address = ('', 8000)
   httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
-  print(f'Starting webserver at {ip}:8000\n')
+  print(f'Starting webserver at http://{ip}:8000\n')
   httpd.serve_forever()
 
 
 text = Path('judges.txt').read_text()
 judges = list(parse_text(text))
-election_departments = [line.split('  ') for line in """\
+election_departments = """\
 Election Central  312-269-7870
 Equipment & supplies  773-247-4065
 Polling Places Department  312-269-7976
-Registration Deparment  312-269-7960""".splitlines()]
+Registration Deparment  312-269-7960"""
+election_departments = [
+  line.split('  ') for line in election_departments.splitlines()]
 
 html_template = Template("""\
 <html>
