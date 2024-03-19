@@ -23,11 +23,12 @@ Install Python, then install dependencies:
 1. Correct OCR errors
 1. Run `make page`
 1. Console will say `Starting webserver at http://<ip address>:8000`
-1. Visit `http://<ip address>:8000` in your phone browser
+1. Visit `http://localhost:8000` in your browser
+1. Copy everything on the page into a new note in your Notes app
+1. Copy the Election Info note through iCloud on your iPhone
 1. Tap each name under 'Inspection text messages' to send a text message to the given person
-1. Copy everything on the page into a new document in your iPhone's Notes app
 
 ## Links
 
-[2023 Judge of Election
-Handbook](https://app.chicagoelections.com/Documents/general/M2023%20Election%20Judge%20Handbook.pdf)
+[2024 Judge of Election
+Handbook](https://chicagoelections.gov/poll-workers/election-day-judges)
