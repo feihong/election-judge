@@ -38,7 +38,7 @@ Cloze	election	You can find Form 15, Correction Report at {{c1::the bottom of th
 Cloze	election	At the end of the day, Correction Report forms go {{c1::on top of the Used Application for Ballot spindle}}
 Cloze	election	Before taking the epoll book equipment out of the case, {{c1::take some photos so you remember how to stuff them back into the case}}
 Cloze	election	If a voter changed their address within the last 30 days and they still reside in {{c1::Illinois}}, {{c1::give them Form 1 (Consolidated Voter's Affidavit), check Box #1, and ask them to present two pieces of acceptable identification::three things}}.
-Cloze	election	If a voter changed their address more than 30 days ago within the {{c1::city of Chicago}}, they can vote without re-registering if you {{c1::give them Form 1 (Consolidated Voter's Affidavit), check Box #5, and issue them a Federal Offices Only voter card::three things}}.
+Cloze	election	If a voter changed their address more than 30 days ago and they still reside in {{c1::the city of Chicago}}, they can vote without re-registering if you {{c1::give them Form 1 (Consolidated Voter's Affidavit), check Box #5, and issue them a Federal Offices Only voter card::three things}}.
 Cloze	election	When you call the polling place to schedule a time to inspect the voting equipment, you should ask for {{c1::the phone number of the person who will open the doors on the day of the election}}
 Cloze	election	The key to threading the seals through the base of the ballot box is {{c1::to aim slightly upward instead of trying to thread it straight through}}. For the side and back seals, it helps to {{c1::kneel inside the ballot box}}.
 Cloze	election	At the end of the day, voter cards go into {{c1::the black return bag (where epoll books also go)}}
@@ -57,3 +57,11 @@ Cloze	election	Even if the card activator fails, the touchscreen voting unit can
 Cloze	election	The ballot scanner must be {{c1::completely powered down}} before removing the memory cards
 Cloze	election	If you accidentally give a voter the wrong ballot, you must {{c1::ask the election coordinator to do an override}}
 Cloze	election	If the voter's signature doesn't match, ask the voter for {{c1::their birth year}}
+Cloze	election	Always check the {{c1::green checklist}} in the black return bag. It might have some different items than the {{c1::checklist}} in the handbook.
+Cloze	election	The 3 copies of the write-in tape go in {{c1::c1::Envelopes W, 71E, and 72E}}
+Cloze	election	The key judge’s checklist goes into {{c1::the black return bag}}
+Cloze	election	What seals before leaving the polling place are {{c1::black}} for transfer case, {{c1::gray}} for return bag, and {{c1::green}} for ESC
+Cloze	election	Place cancelled Vote by Mail ballots in {{c1::Envelope 47E}} along with the voter’s completed {{c1::Form 1, Consolidated Voter's Affidavit}}.
+Cloze	election	Before assisting or allowing a voter to receive assistance, the voter must complete {{c1::Form 1, Consolidated Voter’s Affidavit}}.
+Cloze	election	If the voter hands you a ballot that doesn’t have a box for your initials, that means it is {{c1::a touch screen ballot which was yanked out before it finished printing both sides}}
+Cloze	election	The judge initials the voter’s ballot at {{c1::Station #3}}

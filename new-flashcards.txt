@@ -1,17 +1,15 @@
-If the polling place is too small to allow the 60-inch turning clearance, you may eliminate {a tall voting booth}
+Always check the {green checklist} in the black return bag. It might have some different items than the {checklist} in the handbook.
 
-Pathways should be 36 inches except in front of the {lowered voting booth} and {touchscreen}
+The 3 copies of the write-in tape go in {c1::Envelopes W, 71E, and 72E}
 
-When connecting the modem to the ballot scanner, you must use the {top} USB port.
+The key judge’s checklist goes into {the black return bag}
 
-The touchscreen printer must be turned on {before} the polls are opened on the touchscreen voting unit.
+What seals before leaving the polling place are {black} for transfer case, {gray} for return bag, and {green} for ESC
 
-If a voter chooses to vote an audio ballot, a judge should assist the voter by {selecting the language and device} on the touchscreen voting unit
+Place cancelled Vote by Mail ballots in {Envelope 47E} along with the voter’s completed {Form 1, Consolidated Voter's Affidavit}.
 
-Even if the card activator fails, the touchscreen voting unit can still be used via {manual activation}
+Before assisting or allowing a voter to receive assistance, the voter must complete {Form 1, Consolidated Voter’s Affidavit}.
 
-The ballot scanner must be {completely powered down} before removing the memory cards
+If the voter hands you a ballot that doesn’t have a box for your initials, that means it is {a touch screen ballot which was yanked out before it finished printing both sides}
 
-If you accidentally give a voter the wrong ballot, you must {ask the election coordinator to do an override}
-
-If the voter's signature doesn't match, ask the voter for {their birth year}
+The judge initials the voter’s ballot at {Station #3}
