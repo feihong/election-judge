@@ -8,20 +8,32 @@ Install Python, then install dependencies:
 
 ## Directions
 
+1. Scan a PDF in Dropbox
+1. Copy the text for the judges section and paste it into a text editor
+1. Remove OCR errors so that only the names of the judges and their phone numbers remain
 1. Create a new file `settings.py` and populate it with these fields:
 
     ```python
-    settings = dict(
-        role='key judge',
-        subject_name='Barbara Walters',
-        location='Tolkien Academy',
-        date_time='Monday, April 6',
-    )
+    your_role='key judge'
+    your_name='Bob Smith'
+    polling_place='Sears Tower'
+    inspection_date='Monday, November 4'
+    inspection_time='4:00 PM'
+
+    other_contacts = """
+    Clerk: Henry Joe; 312-111-2222
+    """
+
+    handbook_url = 'https://server.com/downloads/ej-handbook.pdf'
+
+    judges = """
+    YUKO, MILO
+    BABAA, EUGENE
+    WAWAWA, SLIPPY
+    217-222-3333 773-444-5555 312-666-7777
+    """
     ```
-1. Scan a PDF in Dropbox
-1. Copy the text and paste it into `judges.txt`
-1. Correct OCR errors
-1. Run `make page`
+1. Run `just page`
 1. Console will say `Starting webserver at http://<ip address>:8000`
 1. Visit `http://localhost:8000` in your browser
 1. Copy everything on the page into a new note in your Notes app
