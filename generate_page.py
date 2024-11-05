@@ -66,6 +66,7 @@ html_template = Template("""\
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Election Info</title>
 </head>
@@ -109,6 +110,8 @@ html_template = Template("""\
 
 <h2>Inspection text messages</h2>
 
+<p>Preview: “{{ text_message_preview }}” </p>
+
 <ul>
 {% for name, number, mesg in text_messages %}
   <li>
@@ -132,6 +135,10 @@ html_template = Template("""\
 text_message_template = Template("""\
 Hi {{first_name}}, this is your {{your_role}}, {{your_name}}. I plan to go to {{polling_place}} on {{inspection_date}} at {{inspection_time}} to inspect the voting equipment. Can you make it?""")
 
+def get_text_message(first_name: str):
+  config = dict(settings, first_name=first_name)
+  return text_message_template.render(**config)
+
 def get_text_messages(judges, election_coordinator):
   people = judges[:]
   if election_coordinator:
@@ -141,8 +148,7 @@ def get_text_messages(judges, election_coordinator):
     if not number[0].isdigit():
       continue
 
-    config = dict(settings, first_name=name.split(' ', 1)[0])
-    mesg = text_message_template.render(**config)
+    mesg = get_text_message(first_name=name.split(' ', 1)[0])
     yield name, number, mesg
 
 election_departments = [
@@ -154,6 +160,7 @@ with output_file.open('w') as fp:
     election_coordinator=election_coordinator,
     election_departments=election_departments,
     other_contacts=other_contacts,
+    text_message_preview=get_text_message('Foobar'),
     text_messages=get_text_messages(judges, election_coordinator),
     handbook_url=settings['handbook_url'])
   fp.write(html)
